@@ -1,4 +1,3 @@
-# hello-world
-First repository on GitHub--testing.
+A simple space for Word documents with mail-merge fields to be used by QnA Markup.
 
-Hello everyone!
+July 2018
